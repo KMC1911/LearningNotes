@@ -8,7 +8,7 @@
 ### 七、<a href="https://github.com/mailk8811/LearningNotes/blob/master/IntroductiontoComputerNetworks/C6.md">Ethernet MAC協議 - CSMA/CD</a>
 ### 八、<a href="https://github.com/mailk8811/LearningNotes/blob/master/IntroductiontoComputerNetworks/picture/3-1.jpg">IEEE (簡介/分散式系統/訓匡格式)</a>
 ### 九、<a href="https://github.com/mailk8811/LearningNotes/blob/master/IntroductiontoComputerNetworks/picture/3-2.jpg">IEEE 802.11 媒體存取控制架構</a>
-### 十、<a href="https://github.com/mailk8811/LearningNotes/blob/master/IntroductiontoComputerNetworks/C.md">DCF (分散式協調功能)</a>
+### 十、<a href="https://github.com/mailk8811/LearningNotes/blob/master/IntroductiontoComputerNetworks/C7.md">DCF (分散式協調功能)</a>
 ### 十一、<a href="https://github.com/mailk8811/LearningNotes/blob/master/IntroductiontoComputerNetworks/picture/3-5.jpg">PCF (集中式協調功能)</a>
 
 
