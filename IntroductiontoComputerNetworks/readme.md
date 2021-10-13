@@ -6,8 +6,8 @@
 ### 五、<a href="https://github.com/mailk8811/LearningNotes/blob/master/IntroductiontoComputerNetworks/C4.md">Ethernet 網路拓樸</a>
 ### 六、<a href="https://github.com/mailk8811/LearningNotes/blob/master/IntroductiontoComputerNetworks/C5.md">Ethernet 訓匡格式</a>
 ### 七、<a href="https://github.com/mailk8811/LearningNotes/blob/master/IntroductiontoComputerNetworks/C6.md">Ethernet MAC協議 - CSMA/CD</a>
-### 七、<a href="https://github.com/mailk8811/LearningNotes/blob/master/IntroductiontoComputerNetworks/C7.md">IEEE (簡介/分散式系統/訓匡格式)</a>
-
-
+### 七、<a href="https://github.com/mailk8811/LearningNotes/blob/master/IntroductiontoComputerNetworks/picture/3-1.jpg">IEEE (簡介/分散式系統/訓匡格式)</a>
+### 七、<a href="https://github.com/mailk8811/LearningNotes/blob/master/IntroductiontoComputerNetworks/picture/3-2.jpg">IEEE (簡介/分散式系統/訓匡格式)</a>
+### 七、<a href="https://github.com/mailk8811/LearningNotes/blob/master/IntroductiontoComputerNetworks/picture/3-5.jpg">PCF (集中式協調功能)</a>
 
 
